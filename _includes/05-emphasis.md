@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Chandler: Could this markdown _be_ any more awesome?
+
+**Joey arrives**
+
+Joey: Hey, markdown ... how you doin'?
